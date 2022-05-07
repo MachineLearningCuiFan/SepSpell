@@ -33,7 +33,7 @@ Wang271K: https://github.com/wdimmy/Automatic-Corpus-Generation
 我们使用的是论文《[Read, Listen, and See: Leveraging Multimodal Information Helps Chinese Spell Checking](https://arxiv.org/abs/2105.12306).》处理的数据
 
 [数据]: https://drive.google.com/drive/folders/1dC09i57lobL91lEbpebDuUBS0fGz-LAk
-
+https://drive.google.com/drive/folders/1dC09i57lobL91lEbpebDuUBS0fGz-LAk
 
 
 ###############################################################################
