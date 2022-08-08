@@ -67,7 +67,7 @@ sh test_finuting.sh
 SepSpell 方法。
 ## 1.探测模型训练：
 
-本篇论文同样也是使用的ChineseBert作为编码器对模型进行二分类训练。（其中需要注意的是，由于训练集中其实错误字符个数是远小于正确字符的，所以训练两者的权重比是5:1，当然这只是一个建议值）
+本篇论文同样也是使用的ChineseBert作为编码器对模型进行二分类训练。
 
 ### 训练
 ```
@@ -77,7 +77,7 @@ sh train_detection.sh
 ```
 sh test_detection.sh
 ```
-题外：论文之外本人也尝试了使用Bert，Robert，Electra等预训练模型作为探测模型编码器，但是效果影响不大.
+
 
 ## 2.校正模型训练：train_SepSpell.py
 
