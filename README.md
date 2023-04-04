@@ -60,8 +60,6 @@ sh test_finuting.sh
 SepSpell 方法。
 ## 1.探测模型训练：
 
-本篇论文同样也是使用的ChineseBert作为编码器对模型进行二分类训练。
-
 ### 训练
 ```
 sh train_detection.sh
